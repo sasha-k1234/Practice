@@ -1,0 +1,3 @@
+name,price
+shoes,90.99
+hoodie,20.96
